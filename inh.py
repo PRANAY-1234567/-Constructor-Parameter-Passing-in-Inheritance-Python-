@@ -7,6 +7,5 @@ class Derived(Base):
         super().__init__(v)
         print("Inside class Derived constructor")
 
-
 if __name__ == "__main__":
     obj = Derived(157)
