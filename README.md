@@ -169,3 +169,5 @@ This pattern is widely used in:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="658" height="685" alt="image" src="https://github.com/user-attachments/assets/da00b54c-341d-46e3-8fad-e5f7b2f705eb" />
